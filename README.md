@@ -33,11 +33,16 @@ Main design tools used:
 
 Getting started:
 1. Clone the repo from GitHub:
-"X"
+git clone https://github.com/JohanLossius/JohanLossius.git
 
-2. 
+2. Install:
+npm install
 
 Running:
+1. Once you've setup the repo to your desired code editor such as Visual Studio Code, via GitHub Desktop f.ex, simply start working on the project.
+2. To commit changes, commit changes to main on the GitHub repo, and it will automatically deploy to Netlify.
+
+
 
 Contributing:
 In order to contribute to this project, kindly share your thought process as you develop and / or design, with great explanations as to your thought process, and documentation for your technical work where necessary. However, if the design and code is self-evident, which is the ideal, you don't have to document just for the sake of it. Keep it neat and clean, and remember that simple is better more often than not.
