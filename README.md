@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JohanLossius/JohanLossius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,44 +11,54 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
 ![image](https://user-images.githubusercontent.com/52312393/224484786-a9c33677-8843-4e96-824f-f3d375498f2c.png)
 
-Johan Lossius Personal Portfolio
-Noroff Year One, Frontend Development
+<p>This is a portfolio web page of Johan Lossius serving as a display of his personal work during Year One of Noroff's Frontend Development Course. However, it was created in such a way that it can potentially be re-purposed after the studies are finished to become a personal web page of Johan Lossius in general or for other personal projects as well.</p>
 
-This is a portfolio web page of Johan Lossius serving as a display of his personal work during year one of Noroff's frontend development studies. However, it was created in such a way that it can potentially be re-purposed after the studies are finished to become a personal web page or portfolio of Johan Lossius for general work or other personal projects as well.
+<ul><h2>Tech stack used:</h2>
+    <li>CSS, HTML, JS</li>
+    <li>Visual Studio Code</li>
+    <li>GitHub & GitHub Desktop</li>
+    <li>Netlify</li>
+</ul>
+  
+<ul><h2>Main design tools used:</h2>
+    <li>Adobe XD</li>
+    <li>Wix Logo Maker (for quick logo and design inspirations)</li>
+</ul>
 
-Tech stack used:
-- CSS, HTML, JS
-- Visual Studio Code
-- GitHub & GitHub Desktop
-- Netlify
+  <h2>Getting started:</h2>
+  <h3>Clone the repo from GitHub:</h3>
+  <p>git clone https://github.com/JohanLossius/JohanLossius.git</p>
 
-Main design tools used:
-- Adobe XD
-- Wix Logo Maker (for quick logo and design inspirations)
+  <h3>And then install it:</h3>
+  <p>npm install</p>
 
-Getting started:
-1. Clone the repo from GitHub:
-git clone https://github.com/JohanLossius/JohanLossius.git
+OR
 
-2. Install:
-npm install
+<h3>Clone it via GitHub Desktop:</h3>
+<p>clone https://github.com/JohanLossius/JohanLossius.git</p>
 
-Running:
-1. Once you've setup the repo to your desired code editor such as Visual Studio Code, via GitHub Desktop f.ex, simply start working on the project.
-2. To commit changes, commit changes to main on the GitHub repo, and it will automatically deploy to Netlify.
+<h3>And then:</h3>
+<p>Simply launch it in Visual Studio Code editor to be setup to start working on it.</p>
 
+<h2>Running:</h2>
+<ol>
+<li>Once you've setup the repo to your desired code editor such as Visual Studio Code, via GitHub Desktop f.ex, simply start working on the project.</li>
+<li>To commit changes, commit changes to main on the GitHub repo via the same route described above, and it will automatically deploy to Netlify.</li>
+</ol>
 
+<h2>Contributing:</h2>
+<p>In order to contribute to this project, kindly share your thought process as you develop and / or design, with great explanations as to your thought process, and documentation for your technical work where necessary. However, if the design and code is self-evident, which is the ideal, you don't have to document just for the sake of it. Keep it neat and clean, and remember that simple is better more often than not.</p>
+<p>The idea behind the portfolio is to keep a elegant and minimalistic design to emphasize the projects themselves, and not craving too much attention. Less is more, and stylish minimalism flavoured with some playful and appealing color, is the desired way to go about it on this project.</p>
 
-Contributing:
-In order to contribute to this project, kindly share your thought process as you develop and / or design, with great explanations as to your thought process, and documentation for your technical work where necessary. However, if the design and code is self-evident, which is the ideal, you don't have to document just for the sake of it. Keep it neat and clean, and remember that simple is better more often than not.
+<h2>Contact Johan Lossius:</h2>
+<ul>
+  <li>Phone: +47 476 58 530</li>
+  <li>Email: Johan.Lossius@hotmail.com</li>
+</ul>
 
-Contact Johan Lossius:
-Phone: +47 476 58 530
-Email: Johan.Lossius@hotmail.com
-
-Acknowledgements from Johan Lossius:
-I'd like to acknowledge Noroff for providing me with a great and flexible study so that I can keep learning while being busy with my own company. What I particularly liked was the pragmatism of the study, free from inapplicable theory that has no other use than to kill creativity, and full of pragmatic tools, tricks and knowledge to be used in the field of frontend development and design.
-Also I'd liked to acknowledge the tutors that have helped me along, grading my work and providing feedback and tips when necessary.
+   <h2>Acknowledgements from Johan Lossius:</h2>
+<p>I'd like to acknowledge Noroff for providing me with a great and flexible study so that I can keep learning while being busy with my own company. What I particularly liked was the pragmatism of the study, free from inapplicable theory that has no other use than to kill creativity, and full of pragmatic tools, tricks and knowledge to be used in the field of frontend development and design.</p>
+<p>Also I'd liked to acknowledge the tutors that have helped me along, grading my work and providing feedback and tips when necessary.</p>
