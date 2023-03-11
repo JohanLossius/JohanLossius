@@ -30,18 +30,16 @@ Here are some ideas to get you started:
     <li>Wix Logo Maker (for quick logo and design inspirations)</li>
 </ul>
 
-  <h2>Getting started:</h2>
-  <ins>Clone the repo from GitHub:</ins>
-  <p>git clone https://github.com/JohanLossius/JohanLossius.git</p>
+  <h2>Getting started with the development:</h2>
+  <ins>Clone the repo from GitHub via GitHub Desktop:</ins>
+  <p>clone https://github.com/JohanLossius/JohanLossius.git</p>
 
   <ins>And then install it:</ins>
-  <p>npm install</p>
+  <p>If you are using GitHub Desktop and Visual Studio Code editor, simply launch and install it via GitHub Desktop by pulling it from the GitHub repo and follow the instructions of the program until you're setup in Visual Studio Code.</p>
 
-<h2>Running:</h2>
-<ol>
-<li>Once you've setup the repo to your desired code editor such as Visual Studio Code, via GitHub Desktop f.ex, simply start working on the project.</li>
-<li>To commit changes, commit changes to main on the GitHub repo via the same route, and it will automatically deploy to Netlify.</li>
-</ol>
+<ins>Development changes</ins>
+<p>Once you've setup the repo to your desired code editor such as Visual Studio Code, via GitHub Desktop f.ex, simply start working on the project.</p>
+<p>To commit changes, commit changes to main on the GitHub repo via the same route, and it will automatically deploy to Netlify.</p>
 
 <h2>Contributing:</h2>
 <p>In order to contribute to this project, kindly share your thought process as you develop and / or design, with great explanations as to your thought process, and documentation for your technical work where necessary. However, if the design and code is self-evident, which is the ideal, you don't have to document just for the sake of it. Keep it neat and clean, and remember that simple is better more often than not.</p>
