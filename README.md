@@ -16,37 +16,31 @@ Here are some ideas to get you started:
 
 <p>This is a portfolio web page of Johan Lossius serving as a display of his personal work during Year One of Noroff's Frontend Development Course. However, it was created in such a way that it can potentially be re-purposed after the studies are finished to become a personal web page of Johan Lossius in general or for other personal projects as well.</p>
 
-<ul><h2>Tech stack used:</h2>
+<h2>Tech stack used:</h2>
+<ul>
     <li>CSS, HTML, JS</li>
     <li>Visual Studio Code</li>
     <li>GitHub & GitHub Desktop</li>
     <li>Netlify</li>
 </ul>
   
-<ul><h2>Main design tools used:</h2>
+<h2>Main design tools used:</h2>
+<ul>
     <li>Adobe XD</li>
     <li>Wix Logo Maker (for quick logo and design inspirations)</li>
 </ul>
 
   <h2>Getting started:</h2>
-  <h3>Clone the repo from GitHub:</h3>
+  <ins>Clone the repo from GitHub:</ins>
   <p>git clone https://github.com/JohanLossius/JohanLossius.git</p>
 
-  <h3>And then install it:</h3>
+  <ins>And then install it:</ins>
   <p>npm install</p>
-
-OR
-
-<h3>Clone it via GitHub Desktop:</h3>
-<p>clone https://github.com/JohanLossius/JohanLossius.git</p>
-
-<h3>And then:</h3>
-<p>Simply launch it in Visual Studio Code editor to be setup to start working on it.</p>
 
 <h2>Running:</h2>
 <ol>
 <li>Once you've setup the repo to your desired code editor such as Visual Studio Code, via GitHub Desktop f.ex, simply start working on the project.</li>
-<li>To commit changes, commit changes to main on the GitHub repo via the same route described above, and it will automatically deploy to Netlify.</li>
+<li>To commit changes, commit changes to main on the GitHub repo via the same route, and it will automatically deploy to Netlify.</li>
 </ol>
 
 <h2>Contributing:</h2>
