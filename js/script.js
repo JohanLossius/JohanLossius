@@ -21,8 +21,10 @@ nameInput.addEventListener("change", nameInputValidation);
 function nameInputValidation() {
     if (nameCheck(nameInput.value) === false) {
         nameInput.style.borderColor = "red";
+        nameFeedbackCont.innerHTML = `<span class="error-message">*Name should be at least 2 characters*</span>`;
     } else {
         nameInput.style.borderColor = "green";
+        nameFeedbackCont.innerHTML = `<span class="success-message">*Looks good*</span>`;
     }
 }
 
@@ -33,8 +35,10 @@ emailInput.addEventListener("change", emailInputValidation);
 function emailInputValidation() {
     if (emailCheck(emailInput.value) === false) {
         emailInput.style.borderColor = "red";
+        emailFeedbackCont.innerHTML = `<span class="error-message">*Please enter a valid email*</span>`;
     } else {
         emailInput.style.borderColor = "green";
+        emailFeedbackCont.innerHTML = `<span class="success-message">*Looks good*</span>`;
     }
 }
 
@@ -45,8 +49,10 @@ messageInput.addEventListener("change", messageInputValidation);
 function messageInputValidation() {
     if (messageCheck(messageInput.value) === false) {
         messageInput.style.borderColor = "red";
+        messageFeedbackCont.innerHTML = `<span class="error-message">*Message should be at least 2 characters*</span>`;
     } else {
         messageInput.style.borderColor = "green";
+        messageFeedbackCont.innerHTML = `<span class="success-message">*Looks good*</span>`;
     }
 }
 
@@ -61,7 +67,7 @@ function sendMessage() {
     // Manage the name instructions
     if (nameCheck(nameInput.value) === false) {
         nameInput.style.borderColor = "red";
-        nameFeedbackCont.innerHTML = `<span class="error-message">*Atleast 2 characters*</span>`;
+        nameFeedbackCont.innerHTML = `<span class="error-message">*Name should be at least 2 characters*</span>`;
     } else {
         nameInput.style.borderColor = "green";
     }
@@ -77,7 +83,7 @@ function sendMessage() {
     // Manage the messaging instructions
     if (messageCheck(messageInput.value) === false) {
         messageInput.style.borderColor = "red";
-        messageFeedbackCont.innerHTML = "<span class="error-message">*Atleast 2 characters*</span>";
+        messageFeedbackCont.innerHTML = `<span class="error-message">*Message should be at least 2 characters*</span>`;
     } else {
         messageInput.style.borderColor = "green";
     }
@@ -89,8 +95,11 @@ function sendMessage() {
         nameInput.style.borderColor = "#E48698";
         emailInput.style.borderColor = "#E48698";
         messageInput.style.borderColor = "#E48698";
+        nameFeedbackCont.innerHTML = "";
+        emailFeedbackCont.innerHTML = "";
+        messageFeedbackCont.innerHTML = "";
     } else {
-        feedbackContainer.innerHTML = `<span class="error-message">Your message was not sent. Please correct the following:</span>`
+        feedbackContainer.innerHTML = `<span class="error-message">Your message was not sent. Please correct the following:</span>`;
     }
 };
 

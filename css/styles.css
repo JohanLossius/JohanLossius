@@ -7,7 +7,6 @@ body {
 
 h1, h2 {
     font-family: 'Zilla Slab', serif;
-    /* letter-spacing: 0.1em; */
 }
 
 h3, h4 {
@@ -37,7 +36,6 @@ header {
 main {
     display: flex;
     justify-content: center;
-    margin: 20px auto;
 }
 
 .intro-card {
@@ -118,11 +116,6 @@ main {
     height: auto;
 }
 
-#rainy-days-screenshot {
-    width: 95%;
-    min-height: 255px;
-}
-
 .footer-card {
     display: flex;
     flex-direction: column;
@@ -189,4 +182,91 @@ footer {
 
 .error-message {
     color: red;
+}
+
+.name-feedback-container, .email-feedback-container, .message-feedback-container {
+    margin-top: 16px;
+}
+
+@media (max-width: 1799px) {   
+    .intro-card {
+        width: 50%;
+    }
+}
+
+@media (max-width: 1599px) {   
+    .intro-card {
+        width: 60%;
+        margin-bottom: 10px;
+    }
+
+    main {
+        flex-direction: column;
+    }
+
+    .site-card {
+        width: 70%;
+        margin: 10px auto;
+        padding: 20px;
+    }
+
+    .screenshot {
+        width: 60%;
+    }
+
+    .footer-card {
+        width: 60%;
+    }
+}
+
+@media (max-width: 1199px) {   
+    .intro-card {
+        flex-direction: column;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .portfolio-div-intro {
+        width: 90%;
+        text-align: center;
+        display: block;
+    }
+}
+
+@media (max-width: 899px) {   
+    .intro-card {
+        width: 65%;
+    }
+
+    .footer-card {
+        width: 65%;
+    }
+}
+
+@media (max-width: 799px) {   
+    .logo-container {
+        width: 90%;
+    }
+
+    .screenshot {
+        width: 90%;
+    }
+}
+
+@media (max-width: 499px) {   
+    .intro-card {
+        width: 80%;
+    }
+    
+    .site-card {
+        width: 85%;
+    }
+    
+    .portfolio-div-intro {
+        width: 90%;
+    }
+
+    .footer-card {
+        width: 80%;
+    }
 }
