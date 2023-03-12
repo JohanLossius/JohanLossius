@@ -242,7 +242,7 @@ footer {
     }
 
     #github-intro-button, #netlify-intro-button {
-        margin: 25px auto;
+        margin: 5px auto;
     }
 }
 
@@ -263,6 +263,26 @@ footer {
 
     .screenshot {
         width: 90%;
+    }
+
+    h1 {
+        font-size: 1.6rem;
+        margin: 5px auto;
+    }
+    h2 {
+        font-size: 1.4rem;
+        margin: 5px auto;
+    }
+    h3 {
+        font-size: 1.2rem;
+        margin: 10px auto;
+    }
+    h4 {
+        font-size: 1.1rem;
+        margin: 5px auto;
+    }
+    .name-feedback-container, .email-feedback-container, .message-feedback-container {
+        margin-top: 10px;
     }
 }
 
