@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <ins>Development changes</ins>
 <p>Once you've setup the repo to your desired code editor such as Visual Studio Code, via GitHub Desktop f.ex, simply start working on the project.</p>
-<p>To commit changes, commit changes to main on the GitHub repo via the same route, and it will automatically deploy to Netlify.</p>
+<p>To commit changes, commit changes to the GitHub repo via the same route, and it will automatically deploy to Netlify.</p>
 
 <h2>Contributing:</h2>
 <p>In order to contribute to this project, kindly share your thought process as you develop and / or design, with great explanations as to your thought process, and documentation for your technical work where necessary. However, if the design and code is self-evident, which is the ideal, you don't have to document just for the sake of it. Keep it neat and clean, and remember that simple is better more often than not.</p>
