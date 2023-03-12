@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h2>Main design tools used:</h2>
 <ul>
     <li>Adobe XD</li>
-    <li>Wix Logo Maker (for quick logo and design inspirations)</li>
+    <li>Wix Logo Maker for logo and design inspirations</li>
 </ul>
 
   <h2>Getting started with the development:</h2>
