@@ -86,12 +86,20 @@ main {
     text-decoration: none;
     color:#202020;
     border-color: #E48698;
-};
+}
 
 .site-card-container {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+}
+
+.site-card-button-cont {
+    display: flex;
+}
+
+#github-intro-button, #netlify-intro-button {
+    margin: 25px auto 25px 0;
 }
 
 .live-page-button {
@@ -114,6 +122,7 @@ main {
 .screenshot {
     width: 90%;
     height: auto;
+    margin: auto;
 }
 
 .footer-card {
@@ -230,6 +239,10 @@ footer {
         width: 90%;
         text-align: center;
         display: block;
+    }
+
+    #github-intro-button, #netlify-intro-button {
+        margin: 25px auto;
     }
 }
 
