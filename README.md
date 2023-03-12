@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 --> 
 ![image](https://user-images.githubusercontent.com/52312393/224484786-a9c33677-8843-4e96-824f-f3d375498f2c.png)
 
-<p>This is a portfolio web page of Johan Lossius serving as a display of his personal work during Year One of Noroff's Frontend Development Course. However, it was created in such a way that it can potentially be re-purposed after the studies are finished to become a personal portfolio of Johan Lossius in general or for other personal projects as well.</p>
+<p>This is a personal portfolio of Johan Lossius serving as a display of his personal work during Year One of Noroff's Frontend Development Course. However, it was created in such a way that it can potentially be re-purposed after the studies are finished to become a personal portfolio of Johan Lossius in general or for other personal projects as well.</p>
 
 <h2>Tech stack used:</h2>
 <ul>
