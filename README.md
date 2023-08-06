@@ -30,6 +30,5 @@
 
 <h2>How to reach me:</h2>
 <ul>
-  <li>Phone: +47 476 58 530</li>
   <li>Email: Johan.Lossius@hotmail.com</li>
 </ul>
