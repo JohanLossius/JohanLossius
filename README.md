@@ -30,5 +30,5 @@
 
 <h2>How to reach me:</h2>
 <ul>
-  <li>Email: Johan.Lossius@hotmail.com</li>
+  <li>Reach out via LinkedIn: https://www.linkedin.com/in/johan-lossius/</li>
 </ul>
