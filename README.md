@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/52312393/224484786-a9c33677-8843-4e96-824f-f3d375498f2c.png)
+![Screenshot of Johan Portfolio Project 2 image](/images/johan-portfolio-project-2.png)
 
 <p>This is the personal portfolio of myself, Johan Lossius, serving as a display of my personal work during Year One and Two of Noroff's Frontend Development Course.</p>
 
