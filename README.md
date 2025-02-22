@@ -1,6 +1,6 @@
 ![Screenshot of Johan Portfolio Project 2 image](/images/johan-portfolio-project-2.png)
 
-<p>This is the personal portfolio of myself, Johan Lossius, serving as a display of my personal work during Year One and Two of Noroff's Frontend Development Course.</p>
+<p>This is the personal portfolio of myself, Johan Lossius, serving as a display of my personal work during Year One and Two of Noroff's Frontend & UX Course.</p>
 
 <h2>Main tech stack used:</h2>
 <ul>
