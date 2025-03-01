@@ -16,6 +16,7 @@ h3, h4 {
 h3 {
     font-size: 1.6rem;
 }
+
 h4 {
     font-size: 1.4rem;
 }
@@ -31,6 +32,11 @@ header {
 
 .jl-logo {
     border-radius: 25px;
+    width: auto;
+    height: auto;
+    max-width: 230px;
+    max-height: 300px;
+    margin: auto;
 }
 
 main {
@@ -50,7 +56,7 @@ main {
     margin: 25px;
     /* margin: auto; */
     text-align: center;
-    width: 40%;
+    width: 60%;
     display: flex;
     justify-content: center;
     color: #202020;
@@ -59,16 +65,18 @@ main {
 .portfolio-div-intro {
     display: flex; 
     flex-direction: column;
-    width: 67%;
+    width: 60%;
     height: auto;
     text-align: left;
     margin: auto;
+    padding: 4px;
 }
 
 .logo-container {
-    width: 33%;
+    width: 40%;
     height: auto;
     margin: auto;
+    padding: 4px;
 }
 
 .site-card {
@@ -207,7 +215,7 @@ footer {
 
 @media (max-width: 1599px) {   
     .intro-card {
-        width: 60%;
+        width: 65%;
         margin-bottom: 10px;
     }
 
@@ -230,6 +238,10 @@ footer {
     }
 }
 
+@media (max-width: 1299px) { 
+
+} 
+
 @media (max-width: 1199px) {   
     .intro-card {
         flex-direction: column;
@@ -241,6 +253,11 @@ footer {
         width: 90%;
         text-align: center;
         display: block;
+    }
+
+    .jl-logo {
+      max-width: 180px;
+      max-height: 250px;
     }
 
     #github-intro-button, #netlify-intro-button {
@@ -304,4 +321,18 @@ footer {
     .footer-card {
         width: 80%;
     }
+}
+
+@media (max-width: 399px) {   
+  .live-page-button {
+    width: 5rem;
+  }
+  .intro-card, .site-card {
+    width: 85%;
+    padding: 4px;
+    margin: 5px auto;
+  }
+  #full-name, #email-input, #contact-message, #submit-button {
+    max-width: 10rem;
+  }
 }
