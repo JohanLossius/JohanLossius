@@ -25,6 +25,10 @@ a {
     color: #E48698;
 }
 
+.favicon {
+  border-radius: 25px;
+}
+
 header {
     display: flex;
     justify-content: center;
